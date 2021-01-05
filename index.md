@@ -1,7 +1,6 @@
 
-<div align=center>
+
 <img src=/assets/img/xiamen.jpg width="400px" />
-</div>
 
 ___
 
@@ -35,6 +34,12 @@ ___
 * *Apr 2017 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
 * *Apr 2014 - Apr 2017,* M.S in [Beijing Jiaoting University](http://en.bjtu.edu.cn/).
 * *Sep 2009 - Aug 2013,* B.S in [Northeast Petroleum University](http://www.nepu.edu.cn/index.htm#).
+
+___
+
+### Misc
+* My [Github](https://github.com/tigerchen52) 
+* Human Language: Chinese Mandarin (Mother Tongue); English (Fluent); French (Beginner)
 
 ___
 
