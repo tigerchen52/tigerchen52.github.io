@@ -39,7 +39,7 @@ ___
 
 ### Misc
 * My [Github](https://github.com/tigerchen52) 
-* Human Language: Chinese Mandarin (Mother Tongue); English (Fluent); French (Beginner)
+* Human Language: Chinese Mandarin (Mother Tongue); English (Fluent); French (Basic)
 
 ___
 
