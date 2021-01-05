@@ -20,7 +20,7 @@ ___
 ___
 
 ### Teaching
-I work as a teaching assistant mainly for the following courses:
+I work as a teaching assistant mainly servicing for the following courses:
 
 **2020**
 * Knowledge Base Construction, Télécom Paris 
