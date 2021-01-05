@@ -1,6 +1,6 @@
 
 
-<img src=/assets/img/xiamen.jpg width="400px" />
+<img src="/assets/img/xiamen.jpg" width="400px" />
 
 ___
 
