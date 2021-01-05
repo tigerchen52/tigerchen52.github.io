@@ -10,3 +10,6 @@ I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoq
 ### Publications
 
 1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." (AAAI21) [[pdf]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking)
+
+### Contact
+**Email**:[firstname].[lastname][AT]telecom-paris.fr
