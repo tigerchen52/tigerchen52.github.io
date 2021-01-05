@@ -1,5 +1,5 @@
 My name is Lihu Chen (陈立虎) and currently a PhD candidate at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
-I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). My research topics are 
+I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). My research topics include 
 
 * Information Extraction 
 * Knowledge Base
