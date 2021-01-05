@@ -1,4 +1,5 @@
-My name is Inigo Montoya. I have the following qualities:
+My name is Lihu Chen. I am PhD candidate at [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
+I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gael Varoquaux](http://gael-varoquaux.info/). I am interested in Information Extraction and Knowledge Base.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
