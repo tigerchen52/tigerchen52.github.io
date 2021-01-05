@@ -15,7 +15,7 @@ ___
 
 ### Publications
 
-1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." (AAAI21) [[pdf]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking)
+1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." (AAAI21) [[paper]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 ### Misc
 * My [Github](https://github.com/tigerchen52) 
-* Human Language: Chinese Mandarin (Mother Tongue); English (Fluent); French (Basic)
+* Human Language: Chinese Mandarin (Native); English (Fluent); French (Basic)
 
 ___
 
