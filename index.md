@@ -1,7 +1,7 @@
 
-
+<div align=center>
 <img src="/assets/img/xiamen.jpg" width="400px" />
-
+</div>
 ___
 
 
@@ -19,7 +19,7 @@ ___
 
 ___
 
-### Teaching Tasks
+### Teaching
 I work as a teaching assistant mainly for the following courses:
 
 **2020**
