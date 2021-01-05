@@ -14,8 +14,8 @@ author: Lihu Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Blog: "aboutme"
+  About Me: "index"
+  Blog: "blog"
 
 # --- Logo --- #
 
