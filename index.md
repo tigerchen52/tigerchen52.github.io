@@ -16,7 +16,7 @@ ___
 ### Publications
 
 1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." (AAAI21) [[paper]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking) [[slides]](https://drive.google.com/file/d/19mS1RpxLeJYWt5RgYPq0-mi3LOCJf0To/view?usp=sharing)
-2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embedding with LOVE Makes Language Models Robust with Little Cost." To appear at the ACL 2022 Main conference
+2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embedding with LOVE Makes Language Models Robust with Little Cost." Long paper to appear at the ACL 2022 Main conference
 
 ___
 
@@ -35,7 +35,6 @@ ___
 * *Apr 2017 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
 * *Apr 2014 - Apr 2017,* M.S. in [Beijing Jiaotong University](http://en.bjtu.edu.cn/).
 * *Sep 2009 - Aug 2013,* B.S. in [Northeast Petroleum University](http://www.nepu.edu.cn/index.htm#).
-
 ___
 
 ### Misc
