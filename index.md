@@ -2,8 +2,8 @@
 <div align=center>
 <img src="/assets/img/avtar.jpg" width="400px" />
 </div>
-___
 
+___
 
 My name is Lihu Chen (陈立虎), currently a PhD candidate at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
 I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). My research topics include 
@@ -36,6 +36,7 @@ ___
 * *Apr 2017 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
 * *Apr 2014 - Apr 2017,* M.S. in [Beijing Jiaotong University](http://en.bjtu.edu.cn/).
 * *Sep 2009 - Aug 2013,* B.S. in [Northeast Petroleum University](http://www.nepu.edu.cn/index.htm#).
+
 ___
 
 ### Misc
