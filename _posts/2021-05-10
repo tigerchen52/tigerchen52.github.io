@@ -1,0 +1,29 @@
+---
+layout: post
+title: Pictures
+gh-repo: daattali/beautiful-jekyll
+tags: [picture]
+comments: true
+---
+<div align=center>
+<img src="/assets/img/bretagne/ldcity.jpg"  />
+</div>
+<center>Saint-Malo</center>
+
+___
+
+
+<div align=center>
+<img src="/assets/img/bretagne/seagull.jpg"  />
+</div>
+<center>Saint-Malo</center>
+
+___
+
+
+<div align=center>
+<img src="/assets/img/bretagne/castle.jpg"  />
+</div>
+<center>Mont-Saint-Michel</center>
+
+
