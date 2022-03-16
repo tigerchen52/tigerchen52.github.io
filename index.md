@@ -42,7 +42,7 @@ ___
 ### Misc
 * My [Github](https://github.com/tigerchen52) 
 * Human Language: Chinese Mandarin (Native); English (Fluent); French (Basic)
-* [Travel Pictures](https://chenlihu.com/blog/)
+* [Travel Photos](https://chenlihu.com/blog/)
 
 ___
 
