@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internship at Max Planck Institute for Informatics in 2022 March.  
+title: Winter vacation of south France in 2021 December.  
 gh-repo: daattali/beautiful-jekyll
 tags: [Travel Photos]
 comments: true
