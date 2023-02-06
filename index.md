@@ -20,7 +20,7 @@ ___
 Long paper accepted by AAAI 2021 
 2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost."  [[paper]](https://aclanthology.org/2022.acl-long.245.pdf) [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
 Long paper accepted by ACL 2022 (**Oral Presentation**).
-3. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "GLADIS: A General and Large Acronym Disambiguation Benchmark".[[paper]](https://arxiv.org/pdf/2302.01860.pdf))  [[code]](https://github.com/tigerchen52/GLADIS)
+3. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "GLADIS: A General and Large Acronym Disambiguation Benchmark". [[paper]](https://arxiv.org/pdf/2302.01860.pdf)  [[code]](https://github.com/tigerchen52/GLADIS)
 Long paper accepted by EACL 2023. 
 
 ___
