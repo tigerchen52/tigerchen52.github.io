@@ -16,12 +16,10 @@ ___
 
 ### Publications
 
-1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." [[paper]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking) [[slide]](https://drive.google.com/file/d/19mS1RpxLeJYWt5RgYPq0-mi3LOCJf0To/view?usp=sharing)  
-Long paper accepted by AAAI 2021 
-2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost."  [[paper]](https://aclanthology.org/2022.acl-long.245.pdf) [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
-Long paper accepted by ACL 2022 (**Oral Presentation**).
-3. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "GLADIS: A General and Large Acronym Disambiguation Benchmark". [[paper]](https://arxiv.org/pdf/2302.01860.pdf)  [[code]](https://github.com/tigerchen52/GLADIS)
-Long paper accepted by EACL 2023. 
+1. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "A Lightweight Neural Model for Biomedical Entity Linking." Long paper accepted by AAAI 2021. [[paper]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking) [[slide]](https://drive.google.com/file/d/19mS1RpxLeJYWt5RgYPq0-mi3LOCJf0To/view?usp=sharing)  
+2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost."  Long paper accepted by ACL 2022 (**Oral Presentation**). [[paper]](https://aclanthology.org/2022.acl-long.245.pdf) [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
+3. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "GLADIS: A General and Large Acronym Disambiguation Benchmark". 
+Long paper accepted by EACL 2023. [[paper]](https://arxiv.org/pdf/2302.01860.pdf)  [[code]](https://github.com/tigerchen52/GLADIS)
 
 ___
 
