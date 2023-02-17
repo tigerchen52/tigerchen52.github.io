@@ -20,7 +20,9 @@ ___
 2. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost."  Long paper accepted by ACL 2022 (**Oral Presentation**). [[paper]](https://aclanthology.org/2022.acl-long.245.pdf) [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
 3. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "GLADIS: A General and Large Acronym Disambiguation Benchmark". 
 Long paper accepted by EACL 2023. [[paper]](https://arxiv.org/pdf/2302.01860.pdf)  [[code]](https://github.com/tigerchen52/GLADIS)
-
+4. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. "Understanding The Role of Positional Encodings in Sentence
+Representations". 
+In progress. [[paper]](https://openreview.net/pdf?id=8taH4yjN62m)  
 ___
 
 ### Teaching
