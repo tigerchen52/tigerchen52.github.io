@@ -9,8 +9,8 @@ My name is Lihu Chen (陈立虎), currently a PhD candidate at [DIG](https://dig
 I am co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). My research topics include 
 
 * Information Extraction 
-* Knowledge Base
-* Entity Linking
+* Entity Disambiguation
+* Language Model
 
 ___
 
