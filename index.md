@@ -48,7 +48,7 @@ ___
 ### Education and Experiences
 * *Nov 2019 - present,* PhD candidate in [Télécom Paris](https://www.telecom-paris.fr/en/home) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).  
 * *Mar 2022 - May 2022,* Research Intern at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/), reporting to [Simon Razniewski](http://simonrazniewski.com/) and [Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
-* *Apr 2017 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
+* *Apr 2016 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
 * *Apr 2014 - Apr 2017,* M.S. in [Beijing Jiaotong University](http://en.bjtu.edu.cn/).
 * *Sep 2009 - Aug 2013,* B.S. in [Northeast Petroleum University](http://www.nepu.edu.cn/index.htm#).
 
