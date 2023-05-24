@@ -16,14 +16,25 @@ ___
 
 ### Publications
 
-1. A Lightweight Neural Model for Biomedical Entity Linking. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek. Long paper accepted by AAAI 2021. [[paper]](https://arxiv.org/pdf/2012.08844.pdf) [[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking) [[slide]](https://drive.google.com/file/d/19mS1RpxLeJYWt5RgYPq0-mi3LOCJf0To/view?usp=sharing)  
-2. Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek.  Long paper accepted by ACL 2022 (**Oral**). [[paper]](https://aclanthology.org/2022.acl-long.245.pdf) [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
-3. GLADIS: A General and Large Acronym Disambiguation Benchmark. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek.  
-Long paper accepted by EACL 2023 (**Oral**). [[paper]](https://arxiv.org/pdf/2302.01860.pdf)  [[code]](https://github.com/tigerchen52/GLADIS) [[demo]](https://huggingface.co/spaces/Lihuchen/AcroBERT) [[slide]](https://drive.google.com/file/d/1HW6dvxgd2MKg5DC4L-VTZFk6sShZUWsc/view?usp=share_link)
-4. Understanding The Role of Positional Encodings in Sentence
-Representations. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek.  In progress. [[paper]](https://openreview.net/pdf?id=8taH4yjN62m)
-5. Who’s Speaking? Predicting Speaker Profession from Speech. Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel. International Congress of Phonetic Sciences (ICPhS) 2023. [[paper]](https://drive.google.com/file/d/1d5zMT-Z8Q6Lg7fDUBi8IbdRlDm3nt6fy/view?usp=sharing)
-6. Knowledge Base Completion for Long-Tail Entities. Lihu Chen, Simon Razniewski and Gerhard Weikum. MATCHING@ACL 2023. 
+1. [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/pdf/2012.08844.pdf) <br>
+Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
+In AAAI 2021 <br>
+[[code]](https://github.com/tigerchen52/Biomedical-Entity-Linking) [[slide]](https://drive.google.com/file/d/19mS1RpxLeJYWt5RgYPq0-mi3LOCJf0To/view?usp=sharing)  
+2. [Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost](https://aclanthology.org/2022.acl-long.245.pdf) <br> 
+Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
+In ACL 2022 (**Oral**) <br> [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
+3. [GLADIS: A General and Large Acronym Disambiguation Benchmark](https://aclanthology.org/2023.eacl-main.152.pdf) 
+Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br> 
+In EACL 2023 (**Oral**) <br> [[code]](https://github.com/tigerchen52/GLADIS) [[demo]](https://huggingface.co/spaces/Lihuchen/AcroBERT) [[slide]](https://drive.google.com/file/d/1HW6dvxgd2MKg5DC4L-VTZFk6sShZUWsc/view?usp=share_link)
+4. [Understanding The Role of Positional Encodings in Sentence Representations](https://openreview.net/pdf?id=8taH4yjN62m) <br>
+Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
+In progress. 
+5. [Who’s Speaking? Predicting Speaker Profession from Speech](https://drive.google.com/file/d/1d5zMT-Z8Q6Lg7fDUBi8IbdRlDm3nt6fy/view?usp=sharing) <br>
+Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
+In International Congress of Phonetic Sciences (ICPhS) 2023 
+6. Knowledge Base Completion for Long-Tail Entities <br>
+Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
+In ACL 2023 (MATCHING workshop)
 
 
 ___
