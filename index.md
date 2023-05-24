@@ -23,7 +23,7 @@ In AAAI 2021 <br>
 2. [Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost](https://aclanthology.org/2022.acl-long.245.pdf) <br> 
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
 In ACL 2022 (**Oral**) <br> [[code]](https://github.com/tigerchen52/LOVE) [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  
-3. [GLADIS: A General and Large Acronym Disambiguation Benchmark](https://aclanthology.org/2023.eacl-main.152.pdf) 
+3. [GLADIS: A General and Large Acronym Disambiguation Benchmark](https://aclanthology.org/2023.eacl-main.152.pdf)  <br>
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br> 
 In EACL 2023 (**Oral**) <br> [[code]](https://github.com/tigerchen52/GLADIS) [[demo]](https://huggingface.co/spaces/Lihuchen/AcroBERT) [[slide]](https://drive.google.com/file/d/1HW6dvxgd2MKg5DC4L-VTZFk6sShZUWsc/view?usp=share_link)
 4. [Understanding The Role of Positional Encodings in Sentence Representations](https://openreview.net/pdf?id=8taH4yjN62m) <br>
