@@ -23,6 +23,7 @@ Long paper accepted by EACL 2023 (**Oral**). [[paper]](https://arxiv.org/pdf/230
 4. Understanding The Role of Positional Encodings in Sentence
 Representations. Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek.  In progress. [[paper]](https://openreview.net/pdf?id=8taH4yjN62m)
 5. Who’s Speaking? Predicting Speaker Profession from Speech. Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel. International Congress of Phonetic Sciences (ICPhS) 2023. [[paper]](https://drive.google.com/file/d/1d5zMT-Z8Q6Lg7fDUBi8IbdRlDm3nt6fy/view?usp=sharing)
+6. Knowledge Base Completion for Long-Tail Entities. Lihu Chen, Simon Razniewski and Gerhard Weikum. MATCHING@ACL 2023. 
 
 
 ___
