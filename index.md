@@ -32,7 +32,7 @@ In progress.
 5. [Who’s Speaking? Predicting Speaker Profession from Speech](https://drive.google.com/file/d/1d5zMT-Z8Q6Lg7fDUBi8IbdRlDm3nt6fy/view?usp=sharing) <br>
 Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
 In International Congress of Phonetic Sciences (ICPhS) 2023 
-6. Knowledge Base Completion for Long-Tail Entities <br>
+6. [Knowledge Base Completion for Long-Tail Entities](https://drive.google.com/file/d/1njFjV2Eak7npUpa9SY136Cw_EGYNNhaF/view?usp=sharing) <br>
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 In ACL 2023 (MATCHING workshop)
 
@@ -53,7 +53,7 @@ ___
 
 **Program Comittee & Reviewer**
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
-* 2023: ACL
+* 2023: ACL; EMNLP
 
 ___
 
