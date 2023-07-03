@@ -35,7 +35,7 @@ Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori L
 In International Congress of Phonetic Sciences (ICPhS) 2023 
 6. [Knowledge Base Completion for Long-Tail Entities](https://arxiv.org/pdf/2306.17472.pdf) <br>
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
-[[code]](https://github.com/tigerchen52/long_tail_kbc) <br>
+[[code]](https://github.com/tigerchen52/long_tail_kbc) [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) <br>
 In ACL 2023 (MATCHING workshop)
 
 
