@@ -33,7 +33,7 @@ In progress.
 5. [Who’s Speaking? Predicting Speaker Profession from Speech](https://drive.google.com/file/d/1d5zMT-Z8Q6Lg7fDUBi8IbdRlDm3nt6fy/view?usp=sharing) <br>
 Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
 In International Congress of Phonetic Sciences (ICPhS) 2023 
-6. [Knowledge Base Completion for Long-Tail Entities](https://arxiv.org/pdf/2306.17472.pdf) <br>
+6. [Knowledge Base Completion for Long-Tail Entities](https://aclanthology.org/2023.matching-1.8.pdf) <br>
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 [[code]](https://github.com/tigerchen52/long_tail_kbc) [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) <br>
 In ACL 2023 (MATCHING workshop)
