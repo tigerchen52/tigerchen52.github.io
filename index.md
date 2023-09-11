@@ -30,7 +30,7 @@ In EACL 2023 (**Oral**) <br> [[code]](https://github.com/tigerchen52/GLADIS) [[d
 4. [Understanding The Role of Positional Encodings in Sentence Representations](https://openreview.net/pdf?id=8taH4yjN62m) <br>
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
 In progress. 
-5. [Who’s Speaking? Predicting Speaker Profession from Speech](https://www.pure.ed.ac.uk/ws/portalfiles/portal/367397320/icphs_2023.pdf) <br>
+5. [Who’s Speaking? Predicting Speaker Profession from Speech](https://hal.science/LISN/hal-04190126v1) <br>
 Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
 In International Congress of Phonetic Sciences (ICPhS) 2023 
 6. [Knowledge Base Completion for Long-Tail Entities](https://aclanthology.org/2023.matching-1.8.pdf) <br>
