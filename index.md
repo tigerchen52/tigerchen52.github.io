@@ -35,25 +35,25 @@ Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 [[code]](https://github.com/tigerchen52/long_tail_kbc) [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) <br>
 In ACL 2023 (MATCHING workshop)
 6. [The Locality and Symmetry of Positional Encodings](https://openreview.net/pdf?id=8taH4yjN62m) <br>
-Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
+Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23. 
 
 
 ___
 
 ### Teaching
-I work as a teaching assistant mainly servicing for the following courses:
+I work as a teaching assistant mainly servicing the following courses:
 
 **2020**
 * Knowledge Base Construction, Télécom Paris 
-* Natural Language and Speech Processing, Ecole polytechnique
+* Natural Language and Speech Processing, Ecole Polytechnique
 * Databases, Télécom Paris 
 
 ___
 
 ### Service
 
-**Program Comittee & Reviewer**
+**Program Committee & Reviewer**
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP
 
