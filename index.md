@@ -36,7 +36,7 @@ Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 In ACL 2023 (MATCHING workshop)
 6. [The Locality and Symmetry of Positional Encodings](https://openreview.net/pdf?id=8taH4yjN62m) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
-In Findings of EMNLP 23. 
+In Findings of EMNLP 23
 
 
 ___
