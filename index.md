@@ -34,7 +34,7 @@ In International Congress of Phonetic Sciences (ICPhS) 2023
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 [[code]](https://github.com/tigerchen52/long_tail_kbc) [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) <br>
 In ACL 2023 (MATCHING workshop)
-6. [The Locality and Symmetry of Positional Encodings](https://openreview.net/pdf?id=8taH4yjN62m) <br>
+6. [The Locality and Symmetry of Positional Encodings](https://arxiv.org/pdf/2310.12864.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23
 
