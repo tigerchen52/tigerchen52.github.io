@@ -62,6 +62,17 @@ ___
 
 ___
 
+### Talks
+
+* Sep, 2020, "A Lightweight Neural Model for Biomedical Entity Linking", at SoDa Team and DIG Team, Paris, France
+* Sep 2021, "A Simple Yet Effective Positional Module", at JDSE, CentraleSupelec, Saclay, France
+* May 2022, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at ACL 22, Dublin, Ireland
+* Feb 2023, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at Université Paris-Saclay, Saclay, France
+* May 2023, "GLADIS: A General and Large Acronym Disambiguation Benchmark", at EACL 23, Dubrovnik, Croatia
+* Dec 2023, "The Locality and Symmetry of Positional Encodings", at Peking University, Beijing, China
+
+___
+
 ### Education and Experiences
 * *Jul 2023 - present,* Postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), reporting to [Gaël Varoquaux](http://gael-varoquaux.info/).
 * *Nov 2019 - Jun 2023,* PhD candidate in [Télécom Paris](https://www.telecom-paris.fr/en/home) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).  
