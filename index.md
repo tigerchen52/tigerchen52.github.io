@@ -58,7 +58,7 @@ ___
 
 **Program Committee & Reviewer**
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
-* 2023: ACL; EMNLP
+* 2023: ACL; EMNLP; Machine Learning (External Reviewer)
 
 ___
 
