@@ -91,4 +91,4 @@ ___
 ___
 
 ### Contact
-**Email**:[firstname].[lastname][AT]telecom-paris.fr
+**Email**:[firstname].[lastname][AT]inria.fr
