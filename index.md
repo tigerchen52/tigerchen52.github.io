@@ -64,7 +64,7 @@ ___
 
 ### Talks
 
-* Sep, 2020, "A Lightweight Neural Model for Biomedical Entity Linking", at SoDa Team and DIG Team, Paris, France
+* Sep 2020, "A Lightweight Neural Model for Biomedical Entity Linking", at SoDa Team and DIG Team, Paris, France
 * Sep 2021, "A Simple Yet Effective Positional Module", at JDSE, CentraleSupelec, Saclay, France
 * May 2022, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at ACL 22, Dublin, Ireland
 * Feb 2023, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at Université Paris-Saclay, Saclay, France
