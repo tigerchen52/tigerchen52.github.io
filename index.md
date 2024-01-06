@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src="/assets/img/avtar.jpg" width="400px" />
+<img src="/assets/img/lihu_avatar.jpeg" width="200px" />
 </div>
 
 ___
