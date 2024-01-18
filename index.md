@@ -40,7 +40,7 @@ Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23 <br>
 [[code]](https://github.com/tigerchen52/locality_symmetry/tree/master)
 [[poster]](https://drive.google.com/file/d/1G17w4sIMrYjjnBvw5eXtnhlGH6U9mLlc/view?usp=sharing) 
-7. Learning High-Quality and General-Purpose Phrase Representations <br>
+7. [Learning High-Quality and General-Purpose Phrase Representations](https://drive.google.com/file/d/1lyo_w23Q4j6PVW48i5IjBNpkQDRsxb0R/view?usp=sharing) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EACL 24 <br>
 
