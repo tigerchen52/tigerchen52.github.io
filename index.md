@@ -35,12 +35,15 @@ In International Congress of Phonetic Sciences (ICPhS) 2023
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 [[code]](https://github.com/tigerchen52/long_tail_kbc) [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) <br>
 In ACL 2023 (MATCHING workshop)
-6. [The Locality and Symmetry of Positional Encodings](https://aclanthology.org/2023.findings-emnlp.955.pdf) <br>
+6. [Towards efficient, general and robust entity disambiguation systems](https://theses.hal.science/tel-04190587) <br>
+Lihu Chen <br>
+PhD thesis <br>
+7. [The Locality and Symmetry of Positional Encodings](https://aclanthology.org/2023.findings-emnlp.955.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23 <br>
 [[code]](https://github.com/tigerchen52/locality_symmetry/tree/master)
 [[poster]](https://drive.google.com/file/d/1G17w4sIMrYjjnBvw5eXtnhlGH6U9mLlc/view?usp=sharing) 
-7. [Learning High-Quality and General-Purpose Phrase Representations](https://arxiv.org/pdf/2401.10407.pdf) <br>
+8. [Learning High-Quality and General-Purpose Phrase Representations](https://arxiv.org/pdf/2401.10407.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EACL 24 <br>
 
@@ -73,6 +76,7 @@ ___
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP; Machine Learning (External Reviewer)
 * 2024: ACL ARR; ESWC
+
 ___
 
 ### Talks
