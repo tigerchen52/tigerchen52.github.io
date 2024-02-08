@@ -46,6 +46,9 @@ In Findings of EMNLP 23 <br>
 8. [Learning High-Quality and General-Purpose Phrase Representations](https://arxiv.org/pdf/2401.10407.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EACL 24 <br>
+9. [Reconfidencing LLMs from the Grouping Loss Perspective](https://arxiv.org/pdf/2402.04957.pdf)<br>
+Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, and Gaël Varoquaux<br>
+In preprint
 
 ___
 
