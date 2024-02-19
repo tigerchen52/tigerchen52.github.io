@@ -32,12 +32,11 @@ In EACL 2023 (**Oral**) <br>
 | 💻 [[code]](https://github.com/tigerchen52/GLADIS) | 🕹️ [[demo]](https://huggingface.co/spaces/Lihuchen/AcroBERT) | 📑 [[slide]](https://drive.google.com/file/d/1HW6dvxgd2MKg5DC4L-VTZFk6sShZUWsc/view?usp=share_link) |
 6. [Who’s Speaking? Predicting Speaker Profession from Speech](https://hal.science/LISN/hal-04190126v1) <br>
 Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
-In International Congress of Phonetic Sciences (ICPhS) 2023 
+In International Congress of Phonetic Sciences (ICPhS) 2023
 7. [Knowledge Base Completion for Long-Tail Entities](https://aclanthology.org/2023.matching-1.8.pdf) <br>
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 In ACL 2023 (MATCHING workshop) <br>
 | 💻 [[code]](https://github.com/tigerchen52/long_tail_kbc) | 💻 [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) | <br>
-
 8. [Towards efficient, general and robust entity disambiguation systems](https://theses.hal.science/tel-04190587) <br>
 Lihu Chen <br>
 PhD thesis <br>
