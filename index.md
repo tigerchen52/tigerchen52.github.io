@@ -28,33 +28,36 @@ In AAAI 2021 <br>
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
 In ACL 2022 (**Oral**) <br>
 | 💻 [code](https://github.com/tigerchen52/LOVE) | 📑 [[slide]](https://drive.google.com/file/d/12d46Q8lgWG_TWhyMEcVWWSr1bdhn0MAR/view?usp=sharing) | 📊 [[poster]](https://drive.google.com/file/d/1ibVmRE6D3NN7m5y1S29j4_JGDTZcuRlI/view?usp=sharing)  |
-4. [GLADIS: A General and Large Acronym Disambiguation Benchmark](https://aclanthology.org/2023.eacl-main.152.pdf)  <br>
+3. [GLADIS: A General and Large Acronym Disambiguation Benchmark](https://aclanthology.org/2023.eacl-main.152.pdf)  <br>
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br> 
 In EACL 2023 (**Oral**) <br>
 | 💻 [[code]](https://github.com/tigerchen52/GLADIS) | 🕹️ [[demo]](https://huggingface.co/spaces/Lihuchen/AcroBERT) | 📑 [[slide]](https://drive.google.com/file/d/1HW6dvxgd2MKg5DC4L-VTZFk6sShZUWsc/view?usp=share_link) |
-6. [Who’s Speaking? Predicting Speaker Profession from Speech](https://hal.science/LISN/hal-04190126v1) <br>
+4. [Who’s Speaking? Predicting Speaker Profession from Speech](https://hal.science/LISN/hal-04190126v1) <br>
 Yaru Wu, Lihu Chen,  Benjamin Elie, Fabian Suchanek, Ioana Vasilescu, and Lori Lamel <br>
 In International Congress of Phonetic Sciences (ICPhS) 2023
-7. [Knowledge Base Completion for Long-Tail Entities](https://aclanthology.org/2023.matching-1.8.pdf) <br>
+5. [Knowledge Base Completion for Long-Tail Entities](https://aclanthology.org/2023.matching-1.8.pdf) <br>
 Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 In ACL 2023 (MATCHING workshop) <br>
 | 💻 [[code]](https://github.com/tigerchen52/long_tail_kbc) | 💻 [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) | <br>
-8. [Towards efficient, general and robust entity disambiguation systems](https://theses.hal.science/tel-04190587) <br>
+6. [Towards efficient, general and robust entity disambiguation systems](https://theses.hal.science/tel-04190587) <br>
 Lihu Chen <br>
 PhD thesis <br>
-9. [The Locality and Symmetry of Positional Encodings](https://aclanthology.org/2023.findings-emnlp.955.pdf) <br>
+7. [The Locality and Symmetry of Positional Encodings](https://aclanthology.org/2023.findings-emnlp.955.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23 <br>
 | 💻 [[code]](https://github.com/tigerchen52/locality_symmetry/tree/master)
 | 📊 [[poster]](https://drive.google.com/file/d/1G17w4sIMrYjjnBvw5eXtnhlGH6U9mLlc/view?usp=sharing) | 
-10. [Learning High-Quality and General-Purpose Phrase Representations](https://arxiv.org/pdf/2401.10407.pdf) <br>
+8. [Learning High-Quality and General-Purpose Phrase Representations](https://arxiv.org/pdf/2401.10407.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EACL 24 <br>
 | 💻 [[code]](https://github.com/tigerchen52/PEARL/) | 💾 [[data]](https://zenodo.org/records/10676475) | 🤗 [PEARL-small](https://huggingface.co/Lihuchen/pearl_small) | 🤗 [PEARL-base](https://huggingface.co/Lihuchen/pearl_base) | 🤗 [PEARL Benchmark](https://huggingface.co/datasets/Lihuchen/pearl_benchmark) |
-11. [Reconfidencing LLMs from the Grouping Loss Perspective](https://arxiv.org/pdf/2402.04957.pdf)<br>
+9. [Reconfidencing LLMs from the Grouping Loss Perspective](https://arxiv.org/pdf/2402.04957.pdf)<br>
 Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, and Gaël Varoquaux<br>
 In preprint
-
+10. [YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy](https://suchanek.name/work/publications/sigir-2024.pdf)<br>
+Fabian M. Suchanek, Mehwish Alam, Thomas Bonald, Lihu Chen, Pierre-Henri Paris, Jules Soria <br>
+In SIGIR 2024 <br>
+💾 [[data]](https://yago-knowledge.org/downloads/yago-4-5)
 ___
 
 ### Education and Experiences
