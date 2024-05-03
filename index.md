@@ -5,9 +5,11 @@
 
 ___
 
-My name is Lihu Chen (陈立虎), currently a postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre). Before that, I obtained my PhD
-at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
-I was co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). My research topics include 
+My name is Lihu Chen (陈立虎), currently a Research Associate at [Imperial College London](https://www.imperial.ac.uk/). 
+Before that, I did my postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre). I obtained my PhD at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).
+I was co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). <br>
+
+My research topics include 
 
 * **Efficient Language Models**. Check out our small models for biomedical entity disambiguation ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf)), out-of-vocabulary words ([ACL 22](https://aclanthology.org/2022.acl-long.245.pdf)) and short text representations ([EACL 24](https://arxiv.org/pdf/2401.10407.pdf)) 
 * **Information Extraction**.  I am interested in Entity Linking ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf), [EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf)), Knowledge Base Construction ([SIGIR 24](https://suchanek.name/work/publications/sigir-2024.pdf)) and Completion ([ACL@Matching 23](https://aclanthology.org/2023.matching-1.8.pdf)) 
@@ -66,9 +68,10 @@ In SIGIR 2024 <br>
 ___
 
 ### Education and Experiences
-* *Jul 2023 - present,* Postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), reporting to [Gaël Varoquaux](http://gael-varoquaux.info/).
-* *Nov 2019 - Jun 2023,* PhD candidate in [Télécom Paris](https://www.telecom-paris.fr/en/home) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en).  
+* *May 2024 - Present,* Research Associate at [Imperial College London](https://www.imperial.ac.uk/), reporting to [Francesca Toni](https://www.doc.ic.ac.uk/~ft/).
+* *Jul 2023 - May 2024,* Postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), reporting to [Gaël Varoquaux](http://gael-varoquaux.info/).
 * *Mar 2022 - May 2022,* Research Intern at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/), reporting to [Simon Razniewski](http://simonrazniewski.com/) and [Gerhard Weikum](https://people.mpi-inf.mpg.de/~weikum/). 
+* *Nov 2019 - Jun 2023,* PhD candidate in [Télécom Paris](https://www.telecom-paris.fr/en/home) and [Institut Polytechnique de Paris](https://www.ip-paris.fr/en), co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/).  
 * *Aug 2016 - Aug 2019,* Engineer in [Alihealth](https://www.alihealth.cn/), which is a department of [Alibaba Group](https://www.alibabagroup.com/en/global/home).  
 * *Apr 2014 - Apr 2017,* M.S. in [Beijing Jiaotong University](http://en.bjtu.edu.cn/).
 * *Sep 2009 - Aug 2013,* B.S. in [Northeast Petroleum University](http://www.nepu.edu.cn/index.htm#).
@@ -115,4 +118,4 @@ ___
 ___
 
 ### Contact
-**Email**:[firstname].[lastname][AT]inria.fr
+**Email**:[firstname].[lastname][AT]imperial.ac.uk
