@@ -93,7 +93,7 @@ ___
 **Program Committee & Reviewer**
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP; Machine Learning (External Reviewer)
-* 2024: ACL ARR; ESWC
+* 2024: ARR 24; ESWC; ACL; ECAI
 
 ___
 
