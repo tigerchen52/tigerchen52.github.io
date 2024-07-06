@@ -10,7 +10,7 @@
 Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024!
 <br>
 <br>
-Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_base), a lightweight and powerful embedding model for short texts!
+Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts!
 ___
 
 My name is Lihu Chen (陈立虎), currently a Research Associate at [Imperial College London](https://www.imperial.ac.uk/). 
