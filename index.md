@@ -69,11 +69,11 @@ In preprint
 10. [YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy](https://suchanek.name/work/publications/sigir-2024.pdf)<br>
 Fabian M. Suchanek, Mehwish Alam, Thomas Bonald, Lihu Chen, Pierre-Henri Paris, Jules Soria <br>
 In SIGIR 2024 <br>
-| 💻 [[code]](https://github.com/tigerchen52/keyneuron) | 💾 [[data]](https://yago-knowledge.org/downloads/yago-4-5)
+| 💻 [[code]](https://github.com/tigerchen52/eval_yago_el) | 💾 [[data]](https://yago-knowledge.org/downloads/yago-4-5)
 11. [Analyzing Key Neurons in Large Language Models](https://arxiv.org/pdf/2406.10868)<br>
 Lihu Chen, Adam Dejl, Francesca Toni <br>
 In Preprint 2024 <br>
-| 💻 [[code]](https://github.com/tigerchen52/eval_yago_el) |
+| 💻 [[code]](https://github.com/tigerchen52/keyneuron) |
 
 
 ___
