@@ -7,6 +7,9 @@
 
 📢📢 **News**
 
+Our [keyneuron](https://test.pypi.org/project/keyneuron/0.0.2/#description) is released on test PYPI: a package of extracting key neurons in LLMs ([ArXiv Preprint](https://arxiv.org/abs/2406.10868))!
+<br>
+<br>
 Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024!
 <br>
 <br>
