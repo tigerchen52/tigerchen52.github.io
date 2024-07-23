@@ -26,7 +26,9 @@ ___
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP; Machine Learning (External Reviewer)
 * 2024: ARR 24; ESWC; ACL; ECAI; EMNLP; NeurIPS
-  
+
+**Organizer**
+* GENERATIVE AI AND KNOWLEDGE GRAPHS ([GENAIK](https://genetasefa.github.io/GenAIK2025/)) at COLING 2025 
 ___
 
 ### Talks
@@ -35,7 +37,9 @@ ___
 * Sep 2021, "A Simple Yet Effective Positional Module", at JDSE, CentraleSupelec, Saclay, France
 * May 2022, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at ACL 22, Dublin, Ireland
 * Feb 2023, "Imputing Out-of-Vocabulary Embeddings with LOVE Makes Language Models Robust with Little Cost", at Université Paris-Saclay, Saclay, France
+* April 2023, "Towards efficient, general and robust entity disambiguation system", at Telecom Paris, Palaiseau, France
 * May 2023, "GLADIS: A General and Large Acronym Disambiguation Benchmark", at EACL 23, Dubrovnik, Croatia
 * Dec 2023, "The Locality and Symmetry of Positional Encodings", at Peking University, Beijing, China
-* July 2024, "Analyzing Key Neurons in Large Language Models", at Peking University, Beijing, China
+* March 2024, "Reconfidencing LLMs From a Grouping Loss Perspective", at Inria Saclay, Palaiseau, France
+* July 2024, "Analyzing Key Neurons in Large Language Models", at JPMorgan Workshop, Imperial Collge, London, UK
 ___
