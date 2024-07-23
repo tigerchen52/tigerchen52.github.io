@@ -1,5 +1,4 @@
 
-## Publications
 
 1. [A Lightweight Neural Model for Biomedical Entity Linking](https://arxiv.org/pdf/2012.08844.pdf) <br>
 Lihu Chen, Gaël Varoquaux, and Fabian M. Suchanek <br>
