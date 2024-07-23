@@ -52,8 +52,8 @@ Lihu Chen, Simon Razniewski and Gerhard Weikum <br>
 In ACL 2023 (MATCHING workshop) <br>
 | 💻 [[code]](https://github.com/tigerchen52/long_tail_kbc) | 💻 [[code-mpi]](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/knowledge-base-recall/lm4kbc) | <br>
 6. [Towards efficient, general and robust entity disambiguation systems](https://theses.hal.science/tel-04190587) <br>
-Lihu Chen <br>
 PhD thesis <br>
+Jury Composition: [Chloe Clavel](https://clavel.wp.imt.fr/), [Evangelos Kanoulas](https://staff.fnwi.uva.nl/e.kanoulas/), [Gerard de Melo](http://gerard.demelo.org/), [Serena Villata](https://webusers.i3s.unice.fr/~villata/), [Mrinmaya Sachan](https://www.mrinmaya.io/), [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/) <br>
 7. [The Locality and Symmetry of Positional Encodings](https://aclanthology.org/2023.findings-emnlp.955.pdf) <br>
 Lihu Chen, Gaël Varoquaux and Fabian M. Suchanek <br>
 In Findings of EMNLP 23 <br>
