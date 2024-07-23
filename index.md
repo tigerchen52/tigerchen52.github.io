@@ -20,7 +20,7 @@ I am committed to developing efficient, trustworthy, and open-source models, wit
 
 * **Efficient Language Models**. Check out our small models for biomedical entity disambiguation ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf)), out-of-vocabulary words ([ACL 22](https://aclanthology.org/2022.acl-long.245.pdf)) and short text representations ([EACL 24](https://arxiv.org/pdf/2401.10407.pdf)) 
 * **Information Extraction**.  I am interested in Entity Linking ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf), [EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf)), Knowledge Base Construction ([SIGIR 24](https://suchanek.name/work/publications/sigir-2024.pdf)) and Completion ([ACL@Matching 23](https://aclanthology.org/2023.matching-1.8.pdf)) 
-* **Interpretability of LLMs and Trustworthy Models**. The properties of positional encodings ([EMNLP 23](https://aclanthology.org/2023.findings-emnlp.955.pdf)); Key neurons in LLMs ([Preprint 24](https://arxiv.org/pdf/2406.10868)); Mitigating Hallucinations of LLMs ([Preprint 24](https://arxiv.org/pdf/2402.04957.pdf))
+* **Interpretability of LLMs and Trustworthy Models**. The properties of positional encodings in Transformers ([EMNLP 23](https://aclanthology.org/2023.findings-emnlp.955.pdf)); Key neurons in LLMs ([Preprint 24](https://arxiv.org/pdf/2406.10868)); Mitigating Hallucinations of LLMs ([Preprint 24](https://arxiv.org/pdf/2402.04957.pdf))
 
 ___
 
