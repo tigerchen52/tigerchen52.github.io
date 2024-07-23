@@ -16,7 +16,7 @@ ___
 My name is Lihu Chen (陈立虎), and I am currently a Research Associate at [Imperial College London](https://www.imperial.ac.uk/). 
 Before that, I did a one-year postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre). I obtained my PhD at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I was co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). <br>
 
-I am committed to developing efficient and trustworthy models, with a focus on information extraction and biomedical applications. Specifically, my research topics include: 
+I am committed to developing efficient, trustworthy, and open-source models, with a focus on information extraction and biomedical applications. Specifically, my research topics include: 
 
 * **Efficient Language Models**. Check out our small models for biomedical entity disambiguation ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf)), out-of-vocabulary words ([ACL 22](https://aclanthology.org/2022.acl-long.245.pdf)) and short text representations ([EACL 24](https://arxiv.org/pdf/2401.10407.pdf)) 
 * **Information Extraction**.  I am interested in Entity Linking ([AAAI 21](https://arxiv.org/pdf/2012.08844.pdf), [EACL 23](https://aclanthology.org/2023.eacl-main.152.pdf)), Knowledge Base Construction ([SIGIR 24](https://suchanek.name/work/publications/sigir-2024.pdf)) and Completion ([ACL@Matching 23](https://aclanthology.org/2023.matching-1.8.pdf)) 
