@@ -17,7 +17,8 @@ I work as a teaching assistant mainly servicing the following courses:
 **2020**
 * Knowledge Base Construction, Télécom Paris 
 * Natural Language and Speech Processing, Ecole Polytechnique
-* Databases, Télécom Paris 
+* Databases, Télécom Paris
+  
 ___
 
 ### Service
@@ -43,4 +44,5 @@ ___
 * Dec 2023, "The Locality and Symmetry of Positional Encodings", at Peking University, Beijing, China
 * March 2024, "Reconfidencing LLMs From a Grouping Loss Perspective", at Inria Saclay, Palaiseau, France
 * July 2024, "Analyzing Key Neurons in Large Language Models", at JPMorgan Workshop, Imperial Collge, London, UK
+  
 ___
