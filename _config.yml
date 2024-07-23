@@ -15,8 +15,9 @@ author: Lihu Chen
 
 navbar-links:
   About Me: "index"
-  Publication: "publication" 
-  Travel Photos: "blog"
+  Publication: "publication"
+  Experience: "experience"
+  Travel Photo: "blog"
 
 # --- Logo --- #
 
