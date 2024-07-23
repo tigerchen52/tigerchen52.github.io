@@ -28,7 +28,8 @@ ___
 * 2024: ARR 24; ESWC; ACL; ECAI; EMNLP; NeurIPS
 
 **Organizer**
-* GENERATIVE AI AND KNOWLEDGE GRAPHS ([GENAIK](https://genetasefa.github.io/GenAIK2025/)) at COLING 2025 
+* GENERATIVE AI AND KNOWLEDGE GRAPHS ([GENAIK](https://genetasefa.github.io/GenAIK2025/)) at COLING 2025
+
 ___
 
 ### Talks
