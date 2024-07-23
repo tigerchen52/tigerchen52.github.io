@@ -1,3 +1,5 @@
+## Education, Experience and Service
+
 ### Education
 * *May 2024 - Present,* Research Associate at [Imperial College London](https://www.imperial.ac.uk/), reporting to [Francesca Toni](https://www.doc.ic.ac.uk/~ft/).
 * *Jul 2023 - May 2024,* Postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), reporting to [Gaël Varoquaux](http://gael-varoquaux.info/).
