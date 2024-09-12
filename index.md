@@ -7,6 +7,7 @@
 
 📢📢 **News**
 
+* Check out our survey about the role of small models in the LLM era. [Preprint](https://arxiv.org/abs/2409.06857)
 * Our [keyneuron](https://github.com/tigerchen52/keyneuron) is released on test PYPI: a package of extracting key neurons in LLMs ([ArXiv Preprint](https://arxiv.org/abs/2406.10868))!
 * Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024!
 * Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts!
