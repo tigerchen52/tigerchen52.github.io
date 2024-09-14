@@ -24,10 +24,12 @@ ___
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/qrneuron">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
-* Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024 <a href="https://suchanek.name/work/publications/sigir-2024.pdf"> 
+* Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024 <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657876"> 
   <img src="https://img.shields.io/badge/PDF-SIGIR-10868" alt="PDF Badge" width="50" height="13">
  </a> <br>
-* Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts!
+* Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts <a href="https://huggingface.co/Lihuchen/pearl_small"> 
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="PDF Badge" width="50" height="13">
+ </a> <br>
 
 ___
 
