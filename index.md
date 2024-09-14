@@ -28,7 +28,7 @@ ___
   <img src="https://img.shields.io/badge/PDF-SIGIR-10868" alt="PDF Badge" width="50" height="13">
  </a> <br>
 * Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts <a href="https://huggingface.co/Lihuchen/pearl_small"> 
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="PDF Badge" width="50" height="13">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="PDF Badge" width="60" height="13">
  </a> <br>
 
 ___
