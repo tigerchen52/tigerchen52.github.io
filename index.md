@@ -39,9 +39,10 @@ Before that, I did a one-year postdoc at [Inria Saclay](https://www.inria.fr/en/
 My research primarily focuses on natural language processing (NLP) and large language models (LLMs).
 I am dedicated to developing efficient, reliable, and open-source models and tools, with a particular emphasis on information extraction and biomedical applications. Specifically, my research topics include: 
 
-* **Efficient Language Models**. Check out our small models for [biomedical entity disambiguation](https://arxiv.org/pdf/2012.08844.pdf), [out-of-vocabulary words](https://aclanthology.org/2022.acl-long.245.pdf)) and [short text representations](https://arxiv.org/pdf/2401.10407.pdf)) 
-* **Information Extraction**.  I am interested in [Entity Linking](https://aclanthology.org/2023.eacl-main.152.pdf), [Knowledge Base Construction](https://suchanek.name/work/publications/sigir-2024.pdf) and [Completion](https://aclanthology.org/2023.matching-1.8.pdf)
-* **Interpretability of LLMs and Trustworthy Models**. The properties of [positional encodings in Transformers](https://aclanthology.org/2023.findings-emnlp.955.pdf)); [Key neurons in LLMs] (https://arxiv.org/pdf/2406.10868)); [Mitigating Hallucinations of LLMs](https://arxiv.org/pdf/2402.04957.pdf))
+* **Large vs Small: Collaborative AI Modeling Approaches**.  While LLMs demonstrate impressive capabilities, their training and deployment incur substantial overhead in terms of computational resources and energy consumption. Small Models (SMs) are more specialized and cost-effective. In practice, the collaboration between LLMs and SMs can strike a balance between power and efficiency, enabling systems that are resource-efficient, scalable, interpretable, and cost-effective. In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
+My research will primarily build upon this foundational concept, focusing on leveraging the complementary strengths of both LLMs and SMs. 
+* **Interpretable and Trustworthy Models**. The goal of interpretability is to provide a human-understandable explanation of a model’s internal reasoning process, i.e., *how the model works (transparency)*. I am interested in the confidence estimation and knowledge mechanism of LLMs.
+* **Efficient Knowledge-Augmented LLMs**. LLMs exhibit impressive reasoning capabilities, yet their ability to memorize specific knowledge is somewhat limited. Consequently, LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. We would like to know how to cost-effectively retrieve external knowledge to enhance the reasoning capabilities. 
 
 ___
 
