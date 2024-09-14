@@ -39,10 +39,10 @@ Before that, I did a one-year postdoc at [Inria Saclay](https://www.inria.fr/en/
 My research primarily focuses on natural language processing (NLP) and large language models (LLMs).
 I am dedicated to developing efficient, reliable, and open-source models and tools, with a particular emphasis on information extraction and biomedical applications. Specifically, my research topics include: 
 
-* **Large vs Small: Collaborative AI Modeling Approaches**.  While LLMs demonstrate impressive capabilities, their training and deployment incur substantial overhead in terms of computational resources and energy consumption. Small Models (SMs) are more specialized and cost-effective. In practice, the collaboration between LLMs and SMs can strike a balance between power and efficiency, enabling systems that are resource-efficient, scalable, interpretable, and cost-effective. In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
+* **Large vs Small: Collaborative AI Modeling Approaches**.  In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
 My research will primarily build upon this foundational concept, focusing on leveraging the complementary strengths of both LLMs and SMs. 
 * **Interpretable and Trustworthy Models**. The goal of interpretability is to provide a human-understandable explanation of a model’s internal reasoning process, i.e., *how the model works (transparency)*. I am interested in the confidence estimation and knowledge mechanism of LLMs.
-* **Efficient Knowledge-Augmented LLMs**. LLMs exhibit impressive reasoning capabilities, yet their ability to memorize specific knowledge is somewhat limited. Consequently, LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. We would like to know how to cost-effectively retrieve external knowledge to enhance the reasoning capabilities. 
+* **Efficient Knowledge-Augmented LLMs**. LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. We would like to know how to cost-effectively retrieve external knowledge to augment the reasoning capabilities. 
 
 ___
 
