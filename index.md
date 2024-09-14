@@ -5,7 +5,7 @@
 
 <br>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/tigerchen52) 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/tigerchen52) 
 [![Scholar](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://scholar.google.com/citations?user=oRs8regAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihu-chen-43482a284/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Lihuchen)
@@ -20,11 +20,13 @@ ___
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/role_of_small_models">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a> <br>
-* Our QR-Neuron is released: a package of extracting query-relevant neurons in LLMs <a href="https://github.com/tigerchen52/qrneuron">
+* Our QR-Neuron is available: a package of extracting query-relevant neurons in LLMs <a href="https://github.com/tigerchen52/qrneuron">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/qrneuron">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
-* Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024!
+* Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024 <a href="https://suchanek.name/work/publications/sigir-2024.pdf"> 
+  <img src="https://img.shields.io/badge/PDF-SIGIR-10868" alt="PDF Badge" width="50" height="13">
+ </a> <br>
 * Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts!
 
 ___
