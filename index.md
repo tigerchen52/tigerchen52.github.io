@@ -3,12 +3,27 @@
 <img src="/assets/img/lihu_avatar.jpeg" width="200px" />
 </div>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ⚉ **[Github](https://github.com/tigerchen52)**  🎓 **[Scholar](https://scholar.google.com/citations?user=oRs8regAAAAJ&hl=en)** 🤗 **[Huggingface](https://huggingface.co/Lihuchen)** 👥 **[LinkedIn](https://www.linkedin.com/in/lihu-chen-43482a284/)** 🐦 **[Twitter](https://twitter.com/LihuChen)** <br>
+<br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/tigerchen52) 
+[![Scholar](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](https://scholar.google.com/citations?user=oRs8regAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihu-chen-43482a284/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/Lihuchen)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/LihuChen)
+
+
+___
 
 📢📢 **News**
 
-* Check out our survey about the role of small models in the LLM era. [Preprint](https://arxiv.org/abs/2409.06857)
-* Our [keyneuron](https://github.com/tigerchen52/keyneuron) is released on test PYPI: a package of extracting key neurons in LLMs ([ArXiv Preprint](https://arxiv.org/abs/2406.10868))!
+* Check out our survey about the role of small models in the LLM era <a href="https://arxiv.org/abs/2409.06857">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <a href="https://github.com/tigerchen52/role_of_small_models">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a> <br>
+* Our QR-Neuron is released: a package of extracting query-relevant neurons in LLMs <a href="https://github.com/tigerchen52/qrneuron">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <a href="https://github.com/tigerchen52/qrneuron">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 * Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024!
 * Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts!
 
