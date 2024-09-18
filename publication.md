@@ -41,4 +41,8 @@ In SIGIR 2024 <br>
 11. [Analyzing Key Neurons in Large Language Models](https://arxiv.org/pdf/2406.10868)<br>
 Lihu Chen, Adam Dejl, Francesca Toni <br>
 In Preprint 2024 <br>
-| 💻 [[code]](https://github.com/tigerchen52/keyneuron) |
+| 💻 [[code]](https://github.com/tigerchen52/qrneuron) |
+12. [What is the Role of Small Models in the LLM Era: A Survey](https://arxiv.org/pdf/2409.06857)<br>
+Lihu Chen, Gaël Varoquaux <br>
+In Preprint 2024 <br>
+| 💻 [[code]](https://github.com/tigerchen52/awesome_role_of_small_models) |
