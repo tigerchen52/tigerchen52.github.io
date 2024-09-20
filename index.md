@@ -15,7 +15,9 @@
 ___
 
 📢📢 **News**
-
+* One paper accepted by EMNLP 2024 Findings. "Reconfidencing LLMs from the Grouping Loss Perspective"  <a href="https://arxiv.org/pdf/2402.04957">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <br>
 * Check out our survey about the role of small models in the LLM era <a href="https://arxiv.org/abs/2409.06857">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/role_of_small_models">
