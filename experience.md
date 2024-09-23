@@ -26,7 +26,7 @@ ___
 **Program Committee & Reviewer**
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP; Machine Learning (External Reviewer)
-* 2024: ARR 24; ESWC; ACL; ECAI; EMNLP; NeurIPS; ICLR
+* 2024: ARR 24; ESWC; ACL; ECAI; EMNLP; NeurIPS; ICLR; WiNLP
 
 **Organizer**
 * GENERATIVE AI AND KNOWLEDGE GRAPHS ([GENAIK](https://genetasefa.github.io/GenAIK2025/)) at COLING 2025
