@@ -33,7 +33,7 @@ In Findings of EACL 24 <br>
 | 💻 [[code]](https://github.com/tigerchen52/PEARL/) | 💾 [[data]](https://zenodo.org/records/10676475) | 🤗 [PEARL-small](https://huggingface.co/Lihuchen/pearl_small) | 🤗 [PEARL-base](https://huggingface.co/Lihuchen/pearl_base) | 🤗 [PEARL Benchmark](https://huggingface.co/datasets/Lihuchen/pearl_benchmark) |
 9. [Reconfidencing LLMs from the Grouping Loss Perspective](https://arxiv.org/pdf/2402.04957.pdf)<br>
 Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, and Gaël Varoquaux<br>
-In preprint
+In EMNLP 2024 Findings
 10. [YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy](https://suchanek.name/work/publications/sigir-2024.pdf)<br>
 Fabian M. Suchanek, Mehwish Alam, Thomas Bonald, Lihu Chen, Pierre-Henri Paris, Jules Soria <br>
 In SIGIR 2024 <br>
