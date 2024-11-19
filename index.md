@@ -43,7 +43,7 @@ I am dedicated to developing efficient, reliable, and open-source models and too
 
 * **Large vs Small: Collaborative AI Modeling Approaches**.  In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
 My research will primarily build upon this foundational concept, focusing on leveraging the complementary strengths of both LLMs and SMs. 
-* **Interpretable and Trustworthy Models**. The goal of interpretability is to provide a human-understandable explanation of a model’s internal reasoning process, i.e., *how the model works (transparency)*. I am interested in the confidence estimation and knowledge mechanism of LLMs.
+* **Interpretable and Trustworthy Models**. The goal of interpretability is to provide a human-understandable explanation of a model’s internal reasoning process, i.e., *how the model works (transparency)*. I am interested in confidence estimation, knowledge mechanism of LLMs, and fact-checking.
 * **Efficient Knowledge-Augmented LLMs**. LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. We would like to know how to cost-effectively retrieve external knowledge to augment the reasoning capabilities. 
 
 ___
