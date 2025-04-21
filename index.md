@@ -15,6 +15,10 @@
 ___
 
 📢📢 **News**
+* Our Pub-Guard-LLM is hosted on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pub-guard-llama-8b), the first LLM-based system to detect fraudulent articles in the biomedical field. <a href="https://arxiv.org/pdf/2502.15429">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <a href="https://github.com/tigerchen52/pub_guard_llm">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 * Our QR-Neuron is accepted at AAAI 2025 as an oral presentation <a href="https://arxiv.org/abs/2406.10868">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/qrneuron">
