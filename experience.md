@@ -44,9 +44,8 @@ ___
 * May 2023, "GLADIS: A General and Large Acronym Disambiguation Benchmark", at EACL 23, Dubrovnik, Croatia
 * Dec 2023, "The Locality and Symmetry of Positional Encodings", at Peking University, Beijing, China
 * March 2024, "Reconfidencing LLMs From a Grouping Loss Perspective", at Inria Saclay, Palaiseau, France
-* July 2024, "Analyzing Key Neurons in Large Language Models", at JPMorgan Workshop, Imperial Collge, London, UK
+* July 2024, "Analyzing Key Neurons in Large Language Models", at JPMorgan Workshop, Imperial College, London, UK
 * 2024 "What is the Role of Small Models in the LLM Era: A Survey", MLops Reading Group, London, UK
-* 2024 "What is the Role of Small Models in the LLM Era: A Survey",CEDAR, Inria Saclay, France
 * 2024 "Exploring Factuality and Interpretability in LLMs", MLIA, Sorbonne University, France
 * 2025 "Identifying Query-Relevant Neurons in Large Language Models for Long-Form Texts". AAAI, Philadelphia, USA 
 ___
