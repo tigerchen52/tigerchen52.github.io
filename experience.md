@@ -27,6 +27,7 @@ ___
 * 2022: PVLDB Reproducibility (External Reviewer); EMNLP
 * 2023: ACL; EMNLP; Machine Learning (External Reviewer)
 * 2024: ARR 24; ESWC; ACL; ECAI; EMNLP; NeurIPS; ICLR; WiNLP
+* 2025: ARR; NAACL; ACL; IJCAI
 
 **Organizer**
 * GENERATIVE AI AND KNOWLEDGE GRAPHS ([GENAIK](https://genetasefa.github.io/GenAIK2025/)) at COLING 2025
@@ -44,5 +45,8 @@ ___
 * Dec 2023, "The Locality and Symmetry of Positional Encodings", at Peking University, Beijing, China
 * March 2024, "Reconfidencing LLMs From a Grouping Loss Perspective", at Inria Saclay, Palaiseau, France
 * July 2024, "Analyzing Key Neurons in Large Language Models", at JPMorgan Workshop, Imperial Collge, London, UK
-  
+* 2024 "What is the Role of Small Models in the LLM Era: A Survey", MLops Reading Group, London, UK
+* 2024 "What is the Role of Small Models in the LLM Era: A Survey",CEDAR, Inria Saclay, France
+* 2024 "Exploring Factuality and Interpretability in LLMs", MLIA, Sorbonne University, France
+* 2025 "Identifying Query-Relevant Neurons in Large Language Models for Long-Form Texts". AAAI, Philadelphia, USA 
 ___
