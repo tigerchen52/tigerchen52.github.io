@@ -15,20 +15,19 @@
 ___
 
 📢📢 **News**
+* Our benchmark AgentComa has been accepted at ACL 2026 <a href="https://arxiv.org/abs/2508.19988">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <a href="https://agentcoma.github.io/">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 * Our query-level uncertainty has been accepted at ICLR 2026 <a href="https://arxiv.org/abs/2506.09669">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/query_level_uncertainty">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
-* Our Pub-Guard-LLM is hosted on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pub-guard-llama-8b), the first LLM-based system to detect fraudulent articles in the biomedical field. <a href="https://arxiv.org/pdf/2502.15429">
-  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
- </a> <a href="https://github.com/tigerchen52/pub_guard_llm">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 * Our QR-Neuron is accepted at AAAI 2025 as an oral presentation <a href="https://arxiv.org/abs/2406.10868">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/qrneuron">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 
- </a> <br>
 
 ___
 
