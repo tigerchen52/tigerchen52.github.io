@@ -15,6 +15,10 @@
 ___
 
 📢📢 **News**
+* Our query-level uncertainty has been accepted at ICLR 2026 <a href="https://arxiv.org/abs/2506.09669">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+ </a> <a href="https://github.com/tigerchen52/query_level_uncertainty">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 * Our Pub-Guard-LLM is hosted on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pub-guard-llama-8b), the first LLM-based system to detect fraudulent articles in the biomedical field. <a href="https://arxiv.org/pdf/2502.15429">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/pub_guard_llm">
@@ -23,18 +27,7 @@ ___
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://github.com/tigerchen52/qrneuron">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
-* One paper accepted by EMNLP 2024 Findings. "Reconfidencing LLMs from the Grouping Loss Perspective"  <a href="https://arxiv.org/pdf/2402.04957">
-  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
- </a> <br>
-* Check out our survey about the role of small models in the LLM era <a href="https://arxiv.org/abs/2409.06857">
-  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
- </a> <a href="https://github.com/tigerchen52/role_of_small_models">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a> <br>
-* Our new version of [YAGO knowledge base](https://yago-knowledge.org/) is available, which is accepted by SIGIR 2024 <a href="https://dl.acm.org/doi/abs/10.1145/3626772.3657876"> 
-  <img src="https://img.shields.io/badge/PDF-SIGIR-10868" alt="PDF Badge" width="50" height="13">
- </a> <br>
-* Our PEARL is available on 🤗 [HuggingFace](https://huggingface.co/Lihuchen/pearl_small), a lightweight and powerful embedding model for short texts <a href="https://huggingface.co/Lihuchen/pearl_small"> 
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="PDF Badge" width="60" height="13">
+
  </a> <br>
 
 ___
