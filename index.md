@@ -15,6 +15,10 @@
 ___
 
 📢📢 **News**
+* A small demo about how AI is changing teaching <a href="https://chenlihu.com/ai_teachability/">
+ <img src="https://img.shields.io/badge/Demo-Live-blue" height="20">
+ </a> <a href="https://github.com/tigerchen52/ai_teachability">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" 
 * Our benchmark AgentComa has been accepted at ACL 2026 <a href="https://arxiv.org/abs/2508.19988">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://agentcoma.github.io/">
