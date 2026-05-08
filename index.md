@@ -11,15 +11,18 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lihu-chen-43482a284/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/LihuChen)
 
-
 ___
 
 📢📢 **News**
 * A small demo about how AI is changing teaching <a href="https://chenlihu.com/ai_teachability/">
  <img src="https://img.shields.io/badge/Demo-Live-blue" height="20">
  </a> <a href="https://github.com/tigerchen52/ai_teachability">
- <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a> <br>
- 
+ <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7449435644738551809/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="20">
+</a>
+<br>
+  
 * Our benchmark AgentComa has been accepted at ACL 2026 <a href="https://arxiv.org/abs/2508.19988">
   <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
  </a> <a href="https://agentcoma.github.io/">
