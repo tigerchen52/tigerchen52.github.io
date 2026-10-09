@@ -14,6 +14,15 @@
 ___
 
 📢📢 **News**
+
+* Our paper "Latent Debate" has been accepted at NeurIPS 2026 <a href="https://arxiv.org/pdf/2512.01909">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+  </a> <br>
+
+ * Our survey about the role of small models has been accepted by Computational Linguistics <a href="https://arxiv.org/pdf/2409.06857">
+  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
+  </a> <br>
+
 * A small demo about how AI is changing teaching <a href="https://chenlihu.com/ai_teachability/">
  <img src="https://img.shields.io/badge/Demo-Live-blue" height="20">
  </a> <a href="https://github.com/tigerchen52/ai_teachability">
@@ -33,10 +42,6 @@ ___
  </a> <a href="https://github.com/tigerchen52/query_level_uncertainty">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
   
-* Our QR-Neuron is accepted at AAAI 2025 as an oral presentation <a href="https://arxiv.org/abs/2406.10868">
-  <img src="https://img.shields.io/badge/PDF-arxiv-10868" alt="PDF Badge" width="50" height="13">
- </a> <a href="https://github.com/tigerchen52/qrneuron">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge" width="50" height="13"></a>  <br>
 
 
 ___
