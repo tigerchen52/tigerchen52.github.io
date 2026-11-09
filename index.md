@@ -53,11 +53,11 @@ Before that, I did a one-year postdoc at [Inria Saclay](https://www.inria.fr/en/
 My research primarily focuses on natural language processing (NLP) and large language models (LLMs).
 I am dedicated to developing efficient, reliable, and open-source models and tools, with a particular emphasis on information extraction and biomedical applications. Specifically, my research topics include: 
 
-* **Large vs Small: Collaborative AI Modeling Approaches (Frugal AI)**.  In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
-My research will primarily build upon this foundational concept, focusing on leveraging the complementary strengths of both LLMs and SMs. 
-* **Trustworthy AI Systems**. I am interested in LLM security, disinformation detection, uncertainty estimation, and knowledge mechanism of LLMs.
+* **Large vs Small: Collaborative AI Systems (Frugal AI)**.  In our [survey](https://arxiv.org/abs/2409.06857), we systematically examine the collaborations between LLMs and SMs.
+My research will build upon this foundational concept, focusing on leveraging the complementary strengths of both LLMs and SMs. 
+* **Generation-Free Signals in Foundation Models**. I am interested in using internal signals of models to make them more efficient and trustworthy. The question here is how we can find useful signals before generating any answer tokens.
 * **Efficient Knowledge-Augmented LLMs**. LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. I aim to explore cost-effective methods for enhancing reasoning capabilities, e.g. logical reasoning and medical applications. 
-* **Long-term Research Question: Can AI Think Like Humans (or Beyond)**: New Architectures? Multimodality? New Learning Objectives? Neuro-symbolic Integration? We'll see!
+* **Long-term Research Question: Can AI Develop Human-like Reasoning Capabilities—or Go Beyond Them?**: How can we develop AI systems that go beyond statistical patterns? New Architectures? Multimodality? New Learning Objectives? Neuro-symbolic Integration? We'll see!
 
 
 ___
