@@ -46,7 +46,8 @@ ___
 
 ___
 
-My name is Lihu Chen (陈立虎), and I am currently a Research Associate at [Imperial College London](https://www.imperial.ac.uk/). 
+My name is Lihu Chen (陈立虎), and I am currently an ISFP Researcher (permanent position) at [Inria Saclay](https://www.inria.fr/fr/centre-inria-de-saclay) in the [CEDAR](https://inria.fr/en/cedar) team.
+Previously, I was a Research Associate at [Imperial College London](https://www.imperial.ac.uk/). 
 Before that, I did a one-year postdoc at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre). I obtained my PhD at [DIG](https://dig.telecom-paris.fr/blog/) team of [Télécom Paris](https://www.telecom-paris.fr/en/home), which is a member of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en). I was co-supervised by [Fabian Suchanek](https://suchanek.name/) and [Gaël Varoquaux](http://gael-varoquaux.info/). <br>
 
 My research primarily focuses on natural language processing (NLP) and large language models (LLMs).
