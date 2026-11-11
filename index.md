@@ -59,7 +59,6 @@ My research will build upon this foundational concept, focusing on leveraging th
 * **Efficient Knowledge-Augmented LLMs**. LLMs may struggle with tasks that require domain-specific expertise or up-to-date information. I aim to explore cost-effective methods for enhancing reasoning capabilities, e.g. logical reasoning and medical applications. 
 * **Long-term Research Question: Can AI Develop Human-like Reasoning Capabilities—or Go Beyond Them?**: How can we develop AI systems that go beyond statistical patterns? New Architectures? Multimodality? New Learning Objectives? Neuro-symbolic Integration? We'll see!
 
-
 ___
 
 
