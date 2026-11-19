@@ -73,7 +73,7 @@ ___
 
 I am open to discussions and collaborations. Feel free to reach out!
 
-**Email**:[firstname].[lastname][AT]inria.fr
+**Email**:[firstname].[lastname][AT]inria.fr  or  [firstname].[lastname][AT]polytechnique.edu
 
 **Office**: Office 1025
 
