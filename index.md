@@ -70,6 +70,19 @@ ___
 ___
 
 ### Contact
-**Email**:[firstname].[lastname][AT]imperial.ac.uk
+**Email**:[firstname].[lastname][AT]inria.fr
+
+**Office**: Office 1025
+
+Bâtiment Alan Turing
+
+1 rue Honoré d’Estienne d’Orves
+
+Campus de l’École Polytechnique
+
+91120 Palaiseau
+
+Coordonnées GPS :
++48° 42′ 52.11″, +2° 12′ 20.78″
 
 I am open to discussions and collaborations. Feel free to reach out!
