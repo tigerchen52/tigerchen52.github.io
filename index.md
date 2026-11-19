@@ -70,6 +70,9 @@ ___
 ___
 
 ### Contact
+
+I am open to discussions and collaborations. Feel free to reach out!
+
 **Email**:[firstname].[lastname][AT]inria.fr
 
 **Office**: Office 1025
@@ -85,4 +88,4 @@ Campus de l’École Polytechnique
 Coordonnées GPS :
 +48° 42′ 52.11″, +2° 12′ 20.78″
 
-I am open to discussions and collaborations. Feel free to reach out!
+
